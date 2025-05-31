@@ -1,0 +1,32 @@
+{
+    "Date": [
+        "2024-05-01",
+        "2024-05-02",
+        "2024-05-03"
+    ],
+    "Product": [
+        "Laptop",
+        "Mobile",
+        "Chair"
+    ],
+    "Category": [
+        "Electronics",
+        "Electronics",
+        "Furniture"
+    ],
+    "Region": [
+        "North",
+        "South",
+        "East"
+    ],
+    "Units Sold": [
+        20,
+        30,
+        15
+    ],
+    "Unit Price": [
+        50000,
+        20000,
+        1500
+    ]
+}
